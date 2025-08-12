@@ -4,17 +4,11 @@ Desenvolvedor Full Stack | Foco em Back-End e Front-End | Java | React | Spring 
 
 ---
 
-## Projetos recentes
+## 🚀 Projetos recentes
 
-- [Space Dodger](https://github.com/Danzete/mini-game) - Mini-jogo React para desviar de meteoros
+### 🎮 Space Dodger
 
----
-
-## 🎮 Jogue meu Space Dodger!
-
-Desvie dos meteoros neste mini-jogo feito com React e Canvas API.
-
-[Experimente jogar aqui!](https://Danzete.github.io/mini-game)
+Mini-jogo simples feito com React e Canvas API. Controle a nave e desvie dos meteoros!
 
 ![Space Dodger Demo](./space-dodger-demo.gif)
 
@@ -22,4 +16,9 @@ Desvie dos meteoros neste mini-jogo feito com React e Canvas API.
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/seu-perfil) | [Email](mailto:seuemail@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danzete)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:danieltayt-sohn@hotmail.com)
+
+---
+
+> “A criatividade é a inteligência se divertindo.” — Albert Einstein
