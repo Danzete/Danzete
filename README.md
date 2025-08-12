@@ -1,4 +1,4 @@
-# Olá, eu sou o Danzete! 👋
+# Olá, eu sou o Daniel ! 
 
 Desenvolvedor Full Stack | Foco em Back-End e Front-End | Java | React | Spring Boot
 
