@@ -4,12 +4,6 @@ Desenvolvedor Full Stack | Foco em Back-End e Front-End | Java | React | Spring 
 
 ---
 
-## 🚀 Projetos recentes
-
-### 🎮 Space Dodger
-
-Mini-jogo simples feito com React e Canvas API. Controle a nave e desvie dos meteoros!
-
 ![Space Dodger Demo](./space-dodger-demo.gif)
 
 ---
