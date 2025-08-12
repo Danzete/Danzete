@@ -4,7 +4,9 @@ Desenvolvedor Full Stack | Foco em Back-End e Front-End | Java | React | Spring 
 
 ---
 
-## ![Space Dodger Demo](./Jogo.gif)
+<p align="center">
+  <img src="./Jogo.gif" alt="Space Dodger Demo" />
+</p>
 
 ---
 
