@@ -1,6 +1,6 @@
 # Olá, eu sou o Daniel ! 
 
-Desenvolvedor Full Stack | Foco em Back-End e Front-End | Java | React | Spring Boot
+Desenvolvedor Full Stack | Foco em Back-End | Java | Python | React | Spring Boot
 
 ---
 
